@@ -1,0 +1,3 @@
+../rtl/serializer.sv
+../rtl/deserializer.sv
+./extended_deserializer_tb.sv
